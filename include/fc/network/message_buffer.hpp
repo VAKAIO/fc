@@ -1,6 +1,6 @@
 /**
  *  @file
- *  @copyright defined in eos/LICENSE.txt
+ *  @copyright defined in vaka/LICENSE.txt
  */
 #pragma once
 #include <boost/asio/ip/tcp.hpp>
